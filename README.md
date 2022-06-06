@@ -1,4 +1,4 @@
-###INSTALLATION GUIDE
+### INSTALLATION GUIDE
 
 
 Before launching the app, the computer will need 2 libraries. Install them by the links below. Installation steps: 
